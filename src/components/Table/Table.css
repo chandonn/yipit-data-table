@@ -1,0 +1,89 @@
+.data-table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.data-table {
+  width: 100%;
+  min-width: 1110px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.data-table thead tr {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.data-table thead tr th div {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.data-table thead tr th div:not(.align-start) {
+  justify-content: end;
+}
+
+.data-table thead tr th div svg {
+  font-size: 24px;
+}
+
+.data-table tr th,
+.data-table tr td {
+  padding: 20px 0px;
+}
+
+.data-table thead th {
+  color: var(--text-color-cell);
+  font-weight: 600;
+  text-align: start;
+}
+
+.data-table tbody tr:hover {
+  background-color: #e7ebeb;
+}
+
+.data-table .cell-name span {
+  color: var(--text-color-cell-name);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.data-table .cell-type span {
+  font-weight: 600;
+}
+
+.data-table .cell-updated-at,
+.data-table .cell-info-main span:last-child:not(:first-child),
+.data-table .cell-info-secondary span:last-child {
+  color: var(--text-color-cell-light);
+  font-size: 14px;
+}
+
+.data-table .cell-info-main,
+.data-table .cell-info-secondary {
+  text-align: end;
+}
+
+.data-table .cell-info-main span:first-child {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.data-table .cell-info-secondary span:first-child {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.data-table .cell-info-main span:last-child,
+.data-table .cell-info-secondary span:last-child {
+  margin-left: 4px;
+}
+
+.data-table tr td .positive {
+  color: var(--text-color-cell-positive);
+}
+
+.data-table tr td .negative {
+  color: var(--text-color-cell-negative);
+}

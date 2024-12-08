@@ -1,0 +1,1 @@
+export const milisecondToDay = 24 * 60 * 60 * 1000

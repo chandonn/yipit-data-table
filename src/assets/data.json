@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "name": "Company A",
+      "type": "Sales",
+      "lastUpdatedAt": 1721271600000,
+      "trailingGrowth": {
+        "main": {
+          "value": 8.2,
+          "unit": "%",
+          "period": "T7D Y/Y"
+        },
+        "secondary": {
+          "value": -2.8,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDate": {
+        "main": {
+          "value": 6.1,
+          "unit": "%",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": 4.3,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      }
+    },
+    {
+      "name": "Company A",
+      "type": "Revenue",
+      "lastUpdatedAt": 1721271600000,
+      "trailingGrowth": {
+        "main": {
+          "value": 8.2,
+          "unit": "%",
+          "period": "T7D Y/Y"
+        },
+        "secondary": {
+          "value": -2.8,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDate": {
+        "main": {
+          "value": 6.1,
+          "unit": "%",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": 4.3,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDateValueComparison": {
+        "main": {
+          "value": 1.8,
+          "unit": "pp",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": -0.1,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      }
+    },
+    {
+      "name": "Company B",
+      "type": "Sales",
+      "lastUpdatedAt": 1721271600000,
+      "trailingGrowth": {
+        "main": {
+          "value": 8.2,
+          "unit": "%",
+          "period": "T7D Y/Y"
+        },
+        "secondary": {
+          "value": -2.8,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDate": {
+        "main": {
+          "value": 6.1,
+          "unit": "%",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": 4.3,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDateValueComparison": {
+        "main": {
+          "value": 1.8,
+          "unit": "pp",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": -0.1,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      }
+    },
+    {
+      "name": "Company C",
+      "type": "Revenue",
+      "lastUpdatedAt": 1721271600000,
+      "trailingGrowth": {
+        "main": {
+          "value": 8.2,
+          "unit": "%",
+          "period": "T7D Y/Y"
+        },
+        "secondary": {
+          "value": -2.8,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDate": {
+        "main": {
+          "value": 6.1,
+          "unit": "%",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": 4.3,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDateValueComparison": {
+        "main": {
+          "value": 1.8,
+          "unit": "pp",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": -0.1,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      }
+    },
+    {
+      "name": "Company C",
+      "type": "Sales",
+      "lastUpdatedAt": 1721271600000,
+      "trailingGrowth": {
+        "main": {
+          "value": 8.2,
+          "unit": "%",
+          "period": "T7D Y/Y"
+        },
+        "secondary": {
+          "value": -2.8,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDate": {
+        "main": {
+          "value": 6.1,
+          "unit": "%",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": 4.3,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDateValueComparison": {
+        "main": {
+          "value": 1.8,
+          "unit": "pp",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": -0.1,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      }
+    },
+    {
+      "name": "Company B",
+      "type": "Revenue",
+      "lastUpdatedAt": 1721271600000,
+      "trailingGrowth": {
+        "main": {
+          "value": 8.2,
+          "unit": "%",
+          "period": "T7D Y/Y"
+        },
+        "secondary": {
+          "value": -2.8,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDate": {
+        "main": {
+          "value": 6.1,
+          "unit": "%",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": 4.3,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      }
+    },
+    {
+      "name": "Company D",
+      "type": "Sales",
+      "lastUpdatedAt": 1721271600000,
+      "trailingGrowth": {
+        "main": {
+          "value": 8.2,
+          "unit": "%",
+          "period": "T7D Y/Y"
+        },
+        "secondary": {
+          "value": -2.8,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      },
+      "quarterToDate": {
+        "main": {
+          "value": 6.1,
+          "unit": "%",
+          "period": "Y/Y"
+        },
+        "secondary": {
+          "value": 4.3,
+          "unit": "pp",
+          "period": "WoW"
+        }
+      }
+    }
+  ]
+}
